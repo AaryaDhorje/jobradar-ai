@@ -85,3 +85,7 @@ which the slim Docker image doesn't include — in the cloud rely on JSearch for
 - **HR emails:** contact data is personal data under India's DPDP Act 2023. Hunter.io is a licensed provider; keep the
   labelled "guessed" addresses clearly marked as guesses, and add a privacy policy.
 - **Multi-user:** v1 is single-user (one resume, one job list). Accounts, billing and alerts are the next steps for a SaaS version.
+
+## License
+
+[MIT](LICENSE) © 2026 Aarya Dhorje
