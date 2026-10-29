@@ -1,0 +1,12 @@
+services:
+  jobradar:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: backend/.env
+    volumes:
+      - jobradar-data:/app/backend/data
+    restart: unless-stopped
+
+volumes:
+  jobradar-data:

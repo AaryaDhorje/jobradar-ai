@@ -1,0 +1,198 @@
+# Candidate careers boards. Run `python -m scripts.validate_boards` to check them and regenerate companies.yaml.
+greenhouse:
+  - {token: databricks, name: Databricks, domain: databricks.com}
+  - {token: anthropic, name: Anthropic, domain: anthropic.com}
+  - {token: scaleai, name: Scale AI, domain: scale.com}
+  - {token: mongodb, name: MongoDB, domain: mongodb.com}
+  - {token: elastic, name: Elastic, domain: elastic.co}
+  - {token: nutanix, name: Nutanix, domain: nutanix.com}
+  - {token: rubrik, name: Rubrik, domain: rubrik.com}
+  - {token: confluent, name: Confluent, domain: confluent.io}
+  - {token: observeai, name: Observe.AI, domain: observe.ai}
+  - {token: innovaccer, name: Innovaccer, domain: innovaccer.com}
+  - {token: druva, name: Druva, domain: druva.com}
+  - {token: postman, name: Postman, domain: postman.com}
+  - {token: thoughtspot, name: ThoughtSpot, domain: thoughtspot.com}
+  - {token: mindtickle, name: Mindtickle, domain: mindtickle.com}
+  - {token: cohesity, name: Cohesity, domain: cohesity.com}
+  - {token: hevodata, name: Hevo Data, domain: hevodata.com}
+  - {token: fractal, name: Fractal Analytics, domain: fractal.ai}
+  - {token: fractalanalytics, name: Fractal Analytics, domain: fractal.ai}
+  - {token: turing, name: Turing, domain: turing.com}
+  - {token: gleanwork, name: Glean, domain: glean.com}
+  - {token: rippling, name: Rippling, domain: rippling.com}
+  - {token: stripe, name: Stripe, domain: stripe.com}
+  - {token: airbnb, name: Airbnb, domain: airbnb.com}
+  - {token: pinelabs, name: Pine Labs, domain: pinelabs.com}
+  - {token: phonepe, name: PhonePe, domain: phonepe.com}
+  - {token: groww, name: Groww, domain: groww.in}
+  - {token: inmobi, name: InMobi, domain: inmobi.com}
+  - {token: sprinklr, name: Sprinklr, domain: sprinklr.com}
+  - {token: gupshup, name: Gupshup, domain: gupshup.io}
+  - {token: uniphore, name: Uniphore, domain: uniphore.com}
+  - {token: sigmoid, name: Sigmoid, domain: sigmoid.com}
+  - {token: tredence, name: Tredence, domain: tredence.com}
+  - {token: zetaglobal, name: Zeta Global, domain: zetaglobal.com}
+  - {token: purestorage, name: Pure Storage, domain: purestorage.com}
+  - {token: samsara, name: Samsara, domain: samsara.com}
+  - {token: datadog, name: Datadog, domain: datadoghq.com}
+  - {token: twilio, name: Twilio, domain: twilio.com}
+  - {token: okta, name: Okta, domain: okta.com}
+  - {token: cloudflare, name: Cloudflare, domain: cloudflare.com}
+  - {token: gitlab, name: GitLab, domain: gitlab.com}
+  - {token: coinbase, name: Coinbase, domain: coinbase.com}
+  - {token: dreamsports, name: Dream Sports, domain: dreamsports.group}
+  - {token: icertis, name: Icertis, domain: icertis.com}
+  - {token: pubmatic, name: PubMatic, domain: pubmatic.com}
+  - {token: qualys, name: Qualys, domain: qualys.com}
+  - {token: razorpaysoftwareprivatelimited, name: Razorpay, domain: razorpay.com}
+  - {token: chargebee, name: Chargebee, domain: chargebee.com}
+  - {token: browserstack, name: BrowserStack, domain: browserstack.com}
+  - {token: zscaler, name: Zscaler, domain: zscaler.com}
+  - {token: newrelic, name: New Relic, domain: newrelic.com}
+  - {token: harness, name: Harness, domain: harness.io}
+  - {token: celonis, name: Celonis, domain: celonis.com}
+  - {token: mediaocean, name: Mediaocean, domain: mediaocean.com}
+  - {token: affirm, name: Affirm, domain: affirm.com}
+  - {token: instacart, name: Instacart, domain: instacart.com}
+  - {token: dropbox, name: Dropbox, domain: dropbox.com}
+  - {token: smartsheet, name: Smartsheet, domain: smartsheet.com}
+  - {token: zeta, name: Zeta, domain: zeta.tech}
+  - {token: quantiphi, name: Quantiphi, domain: quantiphi.com}
+  - {token: tigeranalytics, name: Tiger Analytics, domain: tigeranalytics.com}
+lever:
+  - {token: cred, name: CRED, domain: cred.club}
+  - {token: meesho, name: Meesho, domain: meesho.com}
+  - {token: atlan, name: Atlan, domain: atlan.com}
+  - {token: simpl, name: Simpl, domain: getsimpl.com}
+  - {token: nium, name: Nium, domain: nium.com}
+  - {token: cars24, name: CARS24, domain: cars24.com}
+  - {token: yellowai, name: Yellow.ai, domain: yellow.ai}
+  - {token: verloop, name: Verloop.io, domain: verloop.io}
+  - {token: saama, name: Saama, domain: saama.com}
+  - {token: spotdraft, name: SpotDraft, domain: spotdraft.com}
+  - {token: zeta, name: Zeta, domain: zeta.tech}
+  - {token: upstox, name: Upstox, domain: upstox.com}
+  - {token: jupiter, name: Jupiter, domain: jupiter.money}
+  - {token: paytm, name: Paytm, domain: paytm.com}
+  - {token: whatfix, name: Whatfix, domain: whatfix.com}
+  - {token: zepto, name: Zepto, domain: zeptonow.com}
+  - {token: slice, name: slice, domain: sliceit.com}
+  - {token: acko, name: ACKO, domain: acko.com}
+  - {token: netomi, name: Netomi, domain: netomi.com}
+  - {token: haptik, name: Haptik, domain: haptik.ai}
+  - {token: wysa, name: Wysa, domain: wysa.io}
+  - {token: qure, name: Qure.ai, domain: qure.ai}
+  - {token: niramai, name: NIRAMAI, domain: niramai.com}
+  - {token: neysa, name: Neysa, domain: neysa.ai}
+  - {token: icertis, name: Icertis, domain: icertis.com}
+  - {token: pubmatic, name: PubMatic, domain: pubmatic.com}
+  - {token: sharechat, name: ShareChat, domain: sharechat.com}
+  - {token: mpl, name: Mobile Premier League, domain: mpl.live}
+  - {token: zoomcar, name: Zoomcar, domain: zoomcar.com}
+  - {token: fampay, name: FamPay, domain: famapp.in}
+  - {token: rapido, name: Rapido, domain: rapido.bike}
+  - {token: palantir, name: Palantir, domain: palantir.com}
+  - {token: mistral, name: Mistral AI, domain: mistral.ai}
+  - {token: kpmg, name: KPMG, domain: kpmg.com}
+  - {token: tide, name: Tide, domain: tide.co}
+  - {token: entropik, name: Entropik, domain: entropik.io}
+  - {token: leena-ai, name: Leena AI, domain: leena.ai}
+  - {token: madstreetden, name: Mad Street Den, domain: madstreetden.com}
+ashby:
+  - {token: openai, name: OpenAI, domain: openai.com}
+  - {token: sarvam, name: Sarvam AI, domain: sarvam.ai}
+  - {token: cohere, name: Cohere, domain: cohere.com}
+  - {token: perplexity, name: Perplexity, domain: perplexity.ai}
+  - {token: elevenlabs, name: ElevenLabs, domain: elevenlabs.io}
+  - {token: notion, name: Notion, domain: notion.so}
+  - {token: ramp, name: Ramp, domain: ramp.com}
+  - {token: replit, name: Replit, domain: replit.com}
+  - {token: deepgram, name: Deepgram, domain: deepgram.com}
+  - {token: harvey, name: Harvey, domain: harvey.ai}
+  - {token: sierra, name: Sierra, domain: sierra.ai}
+  - {token: writer, name: Writer, domain: writer.com}
+  - {token: together, name: Together AI, domain: together.ai}
+  - {token: runway, name: Runway, domain: runwayml.com}
+  - {token: krutrim, name: Krutrim, domain: olakrutrim.com}
+  - {token: composio, name: Composio, domain: composio.dev}
+  - {token: snowflake, name: Snowflake, domain: snowflake.com}
+  - {token: linear, name: Linear, domain: linear.app}
+  - {token: cursor, name: Cursor (Anysphere), domain: cursor.com}
+  - {token: anysphere, name: Cursor (Anysphere), domain: cursor.com}
+  - {token: lovable, name: Lovable, domain: lovable.dev}
+  - {token: supabase, name: Supabase, domain: supabase.com}
+  - {token: clickup, name: ClickUp, domain: clickup.com}
+  - {token: plivo, name: Plivo, domain: plivo.com}
+  - {token: rocketlane, name: Rocketlane, domain: rocketlane.com}
+  - {token: smallest, name: Smallest.ai, domain: smallest.ai}
+  - {token: emergent, name: Emergent, domain: emergent.sh}
+  - {token: ema, name: Ema, domain: ema.co}
+workable:
+  - {token: wingify, name: Wingify, domain: wingify.com}
+  - {token: leena-ai, name: Leena AI, domain: leena.ai}
+  - {token: signzy, name: Signzy, domain: signzy.com}
+  - {token: tiger-analytics, name: Tiger Analytics, domain: tigeranalytics.com}
+  - {token: quantiphi, name: Quantiphi, domain: quantiphi.com}
+  - {token: hevo-data, name: Hevo Data, domain: hevodata.com}
+  - {token: entropik, name: Entropik, domain: entropik.io}
+  - {token: smartbear, name: SmartBear, domain: smartbear.com}
+  - {token: yellow-ai, name: Yellow.ai, domain: yellow.ai}
+smartrecruiters:
+  - {token: Visa, name: Visa, domain: visa.com}
+  - {token: BoschGroup, name: Bosch, domain: bosch.com}
+  - {token: Freshworks, name: Freshworks, domain: freshworks.com}
+  - {token: ServiceNow, name: ServiceNow, domain: servicenow.com}
+  - {token: Equinix, name: Equinix, domain: equinix.com}
+  - {token: AVEVA, name: AVEVA, domain: aveva.com}
+  - {token: Wipro, name: Wipro, domain: wipro.com}
+  - {token: LTIMindtree, name: LTIMindtree, domain: ltimindtree.com}
+  - {token: Mphasis, name: Mphasis, domain: mphasis.com}
+  - {token: PublicisGroupe, name: Publicis Groupe, domain: publicisgroupe.com}
+  - {token: Experian, name: Experian, domain: experian.com}
+  - {token: NielsenIQ, name: NielsenIQ, domain: nielseniq.com}
+  - {token: Coforge, name: Coforge, domain: coforge.com}
+  - {token: Synechron, name: Synechron, domain: synechron.com}
+workday:
+  - {name: NVIDIA, host: nvidia.wd5.myworkdayjobs.com, tenant: nvidia, site: NVIDIAExternalCareerSite, domain: nvidia.com}
+  - {name: Mastercard, host: mastercard.wd1.myworkdayjobs.com, tenant: mastercard, site: CorporateCareers, domain: mastercard.com}
+  - {name: Red Hat, host: redhat.wd5.myworkdayjobs.com, tenant: redhat, site: jobs, domain: redhat.com}
+  - {name: Intel, host: intel.wd1.myworkdayjobs.com, tenant: intel, site: External, domain: intel.com}
+  - {name: Salesforce, host: salesforce.wd12.myworkdayjobs.com, tenant: salesforce, site: External_Career_Site, domain: salesforce.com}
+  - {name: Adobe, host: adobe.wd5.myworkdayjobs.com, tenant: adobe, site: external_experienced, domain: adobe.com}
+  - {name: Dell Technologies, host: dell.wd1.myworkdayjobs.com, tenant: dell, site: External, domain: dell.com}
+  - {name: HP, host: hp.wd5.myworkdayjobs.com, tenant: hp, site: ExternalCareerSite, domain: hp.com}
+  - {name: Walmart Global Tech, host: walmart.wd5.myworkdayjobs.com, tenant: walmart, site: WalmartExternal, domain: walmart.com}
+  - {name: Amdocs, host: amdocs.wd3.myworkdayjobs.com, tenant: amdocs, site: Amdocs, domain: amdocs.com}
+  - {name: Workday, host: workday.wd5.myworkdayjobs.com, tenant: workday, site: Workday, domain: workday.com}
+  - {name: Cadence, host: cadence.wd1.myworkdayjobs.com, tenant: cadence, site: External_Careers, domain: cadence.com}
+  - {name: KLA, host: kla.wd1.myworkdayjobs.com, tenant: kla, site: Search, domain: kla.com}
+  - {name: Northern Trust, host: northerntrust.wd1.myworkdayjobs.com, tenant: northerntrust, site: northerntrust, domain: ntrs.com}
+  - {name: Citi, host: citi.wd5.myworkdayjobs.com, tenant: citi, site: "2", domain: citi.com}
+  - {name: Deutsche Bank, host: db.wd3.myworkdayjobs.com, tenant: db, site: DBWebsite, domain: db.com}
+  - {name: CrowdStrike, host: crowdstrike.wd5.myworkdayjobs.com, tenant: crowdstrike, site: crowdstrikecareers, domain: crowdstrike.com}
+  - {name: Medtronic, host: medtronic.wd1.myworkdayjobs.com, tenant: medtronic, site: MedtronicCareers, domain: medtronic.com}
+  - {name: Zebra Technologies, host: zebra.wd1.myworkdayjobs.com, tenant: zebra, site: Zebra_Careers, domain: zebra.com}
+  - {name: BMC Software, host: bmc.wd1.myworkdayjobs.com, tenant: bmc, site: BMC, domain: bmc.com}
+  - {name: Eaton, host: eaton.wd1.myworkdayjobs.com, tenant: eaton, site: eaton_careers, domain: eaton.com}
+  - {name: BNY, host: bnymellon.wd5.myworkdayjobs.com, tenant: bnymellon, site: BNY_Careers, domain: bny.com}
+  - {name: Cummins, host: cummins.wd1.myworkdayjobs.com, tenant: cummins, site: CumminsCareers, domain: cummins.com}
+  - {name: John Deere, host: johndeere.wd5.myworkdayjobs.com, tenant: johndeere, site: johndeere, domain: deere.com}
+  - {name: Fiserv, host: fiserv.wd5.myworkdayjobs.com, tenant: fiserv, site: EXT, domain: fiserv.com}
+  - {name: Aptiv, host: aptiv.wd5.myworkdayjobs.com, tenant: aptiv, site: APTIV_CAREERS, domain: aptiv.com}
+  - {name: Thermo Fisher, host: thermofisher.wd5.myworkdayjobs.com, tenant: thermofisher, site: ThermoFisherCareers, domain: thermofisher.com}
+  - {name: Veritas, host: veritas.wd1.myworkdayjobs.com, tenant: veritas, site: Veritas, domain: veritas.com}
+  - {name: Qualcomm, host: qualcomm.wd5.myworkdayjobs.com, tenant: qualcomm, site: External, domain: qualcomm.com}
+  - {name: Micron, host: micron.wd1.myworkdayjobs.com, tenant: micron, site: External, domain: micron.com}
+  - {name: AMD, host: amd.wd1.myworkdayjobs.com, tenant: amd, site: External, domain: amd.com}
+  - {name: Applied Materials, host: amat.wd1.myworkdayjobs.com, tenant: amat, site: External, domain: appliedmaterials.com}
+  - {name: Synopsys, host: synopsys.wd1.myworkdayjobs.com, tenant: synopsys, site: Careers, domain: synopsys.com}
+  - {name: PTC, host: ptc.wd1.myworkdayjobs.com, tenant: ptc, site: PTC, domain: ptc.com}
+  - {name: Morgan Stanley, host: ms.wd5.myworkdayjobs.com, tenant: ms, site: External, domain: morganstanley.com}
+  - {name: Barclays, host: barclays.wd3.myworkdayjobs.com, tenant: barclays, site: External_Career_Site_Barclays, domain: barclays.com}
+  - {name: UBS, host: ubs.wd3.myworkdayjobs.com, tenant: ubs, site: UBS_Experienced_Professionals, domain: ubs.com}
+  - {name: Siemens Healthineers, host: siemenshealthineers.wd3.myworkdayjobs.com, tenant: siemenshealthineers, site: SHSJB, domain: siemens-healthineers.com}
+  - {name: Philips, host: philips.wd3.myworkdayjobs.com, tenant: philips, site: jobs-and-careers, domain: philips.com}
+  - {name: Accenture, host: accenture.wd103.myworkdayjobs.com, tenant: accenture, site: AccentureCareers, domain: accenture.com}
+  - {name: Mercedes-Benz, host: mercedesbenz.wd3.myworkdayjobs.com, tenant: mercedesbenz, site: MBRDI, domain: mercedes-benz.com}
+  - {name: Honeywell, host: honeywell.wd5.myworkdayjobs.com, tenant: honeywell, site: Honeywell, domain: honeywell.com}
